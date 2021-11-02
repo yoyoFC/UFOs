@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The purpose of this project is to create a web page with dynamic filters for data displaying related to UFO sightings.
+The purpose of this project is to provide a webpage with dynamic filters to display data related to UFO sightings.
 We are using 5 criterias to filter the data: Date, City, State, Country and Shape of the UFO.  
 During the construction of this web page, different files were created to configure the visualization environment. The result is a combination of css, js and html files. 
 
